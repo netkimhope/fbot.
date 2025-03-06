@@ -1,9 +1,9 @@
 
 ---
 
-# **FB-BOT (Kokoro-Project)**  
+# **FB-BOT**  
 
-Kokoro-Project is a **forked and enhanced** version of the original **Facebook Autobot**, designed to **automate Facebook Messenger bots** efficiently. With a focus on **performance, customization, and ease of use**, Kokoro provides a seamless way to deploy and manage chatbots.  
+**Enhanced** version of the original **Facebook Autobot**, designed to **automate Facebook Messenger bots** efficiently. With a focus on **performance, customization, and ease of use**, FB-BOT provides a seamless way to deploy and manage chatbots.  
 
 ---
 
