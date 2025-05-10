@@ -45,8 +45,8 @@ module.exports["run"] = async ({
         /*  helpMessage += `\n• To see all commands, use '${prefix || ''}HELP ALL'\n`;*/
         helpMessage += `\n• To see another page, use "HELP" [page-number]'\n`;
         helpMessage += `• For more information use "HELP" [cmd name]"\n\n`;
-        helpMessage += `NOTE: NOT FOR SALE!\n- This bot is intended to be provided free of charge.`;
-        helpMessage += `\nGCASH NO: 09468377615. If you'd like to support us and keep our server running 24/7, please consider donating.\n\n`;
+        helpMessage += `N\n`;
+        helpMessage += `\n\n\n`;
 
         const ireply = await chat.reply(font.thin(helpMessage) + `• If Device Doesn't Support Fonts Reply this message with "unfont"`);
         ireply.unsend(150000);
