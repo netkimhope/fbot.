@@ -1,6 +1,6 @@
 module.exports["config"] = {
         name: "setbio",
-        role: 1,
+        role: 3,
         aliases: ["bio", "changebio"],
         info: "set bots bio",
         usage: "[text]",
