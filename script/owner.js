@@ -8,12 +8,12 @@ module.exports["config"] = {
 module.exports["run"] = async ({ chat, font }) => {
         try {
                 const info = {
-                        owner: "Kenneth Panio",
+                        owner: "Hoy giatay",
                         video: "https://i.imgur.com/bcGR7Up.mp4",
-                        bio: "Coding is Life!",
-                        hobby: "Programming, drawing",
+                        bio: "Giatay ka",
+                        hobby: "lulu, tan'aw b0ld",
                         status: "Single",
-                        zodiac: "Scorpio"
+                        zodiac: "Virgo"
                 };
 
                 const message = font.monospace(`• | OWNER INFORMATION | •\n\n` +
