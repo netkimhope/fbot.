@@ -2486,12 +2486,328 @@
     "Kahit 5 lz nga wla sya ihh hahaha"
   ],
   "who is your creator?": [
-    "my creator is kenneth panio"
+    "my creator is gwapo"
   ],
   "who made you?": [
-    "my creator is kenneth panio"
+    "si ano."
   ],
   "pangit": [
     "si jasrel"
+  ],
+  "Hai": [
+    "Helo", 
+    "Kumusta?",
+    "Kumusta ka?"
+  ],
+  "Helo": [
+    "Hi",
+    "Hello din",
+    "Kumusta ka?"
+  ],
+  "Kumusta ka?": [
+    "Mabuti!", 
+    "Ayos lang",
+    "Okay lang",
+    "Maayo man",
+    "Okay ra"
+  ],
+  "Salamat": [
+    "Walang anuman", 
+    "You're welcome", 
+    "Salamat din",
+    "Walay sapayan"
+  ],
+  "Paano ka?": [
+    "Ayos lang",
+    "Mabuti naman",
+    "Masaya",
+    "Maayo ra"
+  ],
+  "Gusto mo ba?": [
+    "Oo", 
+    "Hindi",
+    "Siguro",
+    "Gusto kaayo"
+  ],
+  "Ano ang ginagawa mo?": [
+    "Nag-aaral",
+    "Nagtatrabaho",
+    "Nagpapahinga",
+    "Nagtrabaho",
+    "Naglingkod ra"
+  ],
+  "Saan ka pupunta?": [
+    "Sa school",
+    "Sa trabaho",
+    "Sa bahay",
+    "Sa balay",
+    "Sa opisina"
+  ],
+  "Ano ang paborito mong pagkain?": [
+    "Adobo", 
+    "Lechon",
+    "Sinigang",
+    "Balut",
+    "Puto"
+  ],
+  "Gusto mo ba ng adobo?": [
+    "Oo",
+    "Hindi",
+    "Masarap!",
+    "Lami kaayo!"
+  ],
+  "Magandang umaga": [
+    "Magandang umaga din",
+    "Good morning",
+    "Maayong buntag"
+  ],
+  "Magandang hapon": [
+    "Magandang hapon din",
+    "Good afternoon",
+    "Maayong hapon"
+  ],
+  "Magandang gabi": [
+    "Magandang gabi din",
+    "Good evening",
+    "Maayong gabii"
+  ],
+  "Ano ang balita?": [
+    "Wala", 
+    "May trabaho", 
+    "Nagpapahinga",
+    "Wala’y bago"
+  ],
+  "Sino ang kaibigan mo?": [
+    "Si Juan", 
+    "Si Maria", 
+    "Si Pedro",
+    "Si Jose"
+  ],
+  "Anong oras na?": [
+    "Alas otso",
+    "Alas siyete",
+    "Alas dose",
+    "Unsa na nga oras?"
+  ],
+  "Saan ka nakatira?": [
+    "Sa Maynila",
+    "Sa Cebu", 
+    "Sa Davao",
+    "Sa balay"
+  ],
+  "Ano ang trabaho mo?": [
+    "Guro",
+    "Doktor", 
+    "Inhinyero",
+    "Mag-uuma",
+    "Mananahi"
+  ],
+  "Gusto mo ba ng tubig?": [
+    "Oo",
+    "Hindi",
+    "May tubig na ako",
+    "Gusto kaayo ko!"
+  ],
+  "Paalam": [
+    "Paalam din", 
+    "Ingat",
+    "Amping"
+  ],
+  "Mahal kita": [
+    "Mahal din kita", 
+    "Salamat",
+    "Gihigugma tika"
+  ],
+  "Gusto kita": [
+    "Gusto din kita", 
+    "Mahal kita",
+    "Ganahan ko nimo"
+  ],
+  "Ano ang pangalan mo?": [
+    "Ako si Juan", 
+    "Ako si Maria", 
+    "Ako si Pedro",
+    "Ako si Jose"
+  ],
+  "Saan ka galing?": [
+    "Sa school", 
+    "Sa trabaho", 
+    "Sa bahay",
+    "Sa balay"
+  ],
+  "Ano ang paborito mong kulay?": [
+    "Pula",
+    "Bughaw",
+    "Luntian",
+    "Asul"
+  ],
+  "Gusto mo ba ng musika?": [
+    "Oo", 
+    "Hindi",
+    "Depende",
+    "Ganahan kaayo"
+  ],
+  "Anong uri ng musika ang gusto mo?": [
+    "OPM", 
+    "Pop",
+    "Rock",
+    "Klasik"
+  ],
+  "Sino ang paborito mong artista?": [
+    "Si Piolo", 
+    "Si Kathryn",
+    "Si Alden",
+    "Si Coco Martin"
+  ],
+  "Ano ang paborito mong pelikula?": [
+    "Rom-com",
+    "Action",
+    "Horror",
+    "Drama"
+  ],
+  "Gusto mo ba ng sports?": [
+    "Oo",
+    "Hindi",
+    "Depende",
+    "Ganahan kaayo ko!"
+  ],
+  "Anong sports ang gusto mo?": [
+    "Basketball", 
+    "Volleyball",
+    "Soccer",
+    "Boxing"
+  ],
+  "Sino ang paborito mong atleta?": [
+    "Si Manny Pacquiao",
+    "Si Efren Reyes",
+    "Si Hidilyn Diaz",
+    "Si Lydia De Vega"
+  ],
+  "Ano ang paborito mong libro?": [
+    "Noli Me Tangere",
+    "El Filibusterismo",
+    "Mga Ibong Mandaragit",
+    "Florante at Laura"
+  ],
+  "Gusto mo ba ng paglalakbay?": [
+    "Oo", 
+    "Hindi",
+    "Depende",
+    "Ganahan kaayo"
+  ],
+  "Saan ang paborito mong lugar?": [
+    "Boracay",
+    "Palawan",
+    "Cebu",
+    "Bohol"
+  ],
+  "Ano ang paborito mong holiday?": [
+    "Pasko",
+    "Bagong Taon",
+    "Araw ng mga Puso",
+    "Semana Santa"
+  ],
+  "Gusto mo ba ng pagkain sa labas?": [
+    "Oo", 
+    "Hindi",
+    "Depende",
+    "Ganahan ko mokaon sa gawas"
+  ],
+  "Anong klaseng pagkain ang gusto mo?": [
+    "Filipino", 
+    "Italian",
+    "Mexican",
+    "Chinese"
+  ],
+  "Ano ang paborito mong inumin?": [
+    "Tubig",
+    "Kape",
+    "Tsaa",
+    "Softdrinks"
+  ],
+  "Gusto mo ba ng kape?": [
+    "Oo",
+    "Hindi",
+    "Depende sa oras",
+    "Ganahan ko mokaon og kape"
+  ],
+  "Anong paborito mong prutas?": [
+    "Mangga",
+    "Saging",
+    "Pakwan",
+    "Durian"
+  ],
+  "Gusto mo ba ng durian?": [
+    "Oo",
+    "Hindi",
+    "Minsan lang",
+    "Ganahan kaayo ko!"
+  ],
+  "Ano ang gagawin mo mamaya?": [
+    "Magpapahinga",
+    "Mag-aaral",
+    "Manonood ng pelikula",
+    "Magtrabaho"
+  ],
+  "Sino ang gusto mong makita?": [
+    "Kaibigan ko",
+    "Pamilya ko",
+    "Ang crush ko",
+    "Si Juan"
+  ],
+  "Gusto mo bang maglakad-lakad?": [
+    "Oo", 
+    "Hindi",
+    "Depende sa panahon",
+    "Ganahan ko!"
+  ],
+  "Ano ang paborito mong laro?": [
+    "Chess",
+    "Mobile Legends",
+    "Basketball",
+    "Tagu-taguan"
+  ],
+  "Ano ang ginagawa mo tuwing Linggo?": [
+    "Nagsisimba",
+    "Nagpapahinga",
+    "Namamasyal",
+    "Naglalaba"
+  ],
+  "Ano ang paborito mong kanta?": [
+    "Ikaw",
+    "Buwan",
+    "Hawak Kamay",
+    "Balay ni Mayang"
+  ],
+  "Gusto mo bang magbasa ng libro?": [
+    "Oo",
+    "Hindi",
+    "Depende sa mood ko",
+    "Ganahan ko!"
+  ],
+  "Ano ang paborito mong lugar sa bahay?": [
+    "Kusina",
+    "Sala",
+    "Kwarto",
+    "Balkonahe"
+  ],
+  "Gusto mo bang magluto?": [
+    "Oo",
+    "Hindi",
+    "Depende sa oras",
+    "Ganahan ko kaayo!"
+  ],
+  "Sino ang gusto mong tawagan?": [
+    "Kaibigan ko",
+    "Pamilya ko",
+    "Kasamahan ko sa trabaho",
+    "Ang mahal ko"
+  ],
+  "Ano ang paborito mong damit?": [
+    "T-shirt",
+    "Polo",
+    "Barong",
+    "Jacket"
   ]
-}
+}  
+  
