@@ -110,9 +110,9 @@ module.exports = async ({ api, font, logger }) => {
     };
 
     const captions = [ 
-        ' Hi, everyone im a bot from XN International, feel free to add me in your gc.',
-        'Hi, everyone im a bot from XN International, feel free to add me in your gc.',
-        'Hi, everyone im a bot from XN International, feel free to add me in your gc.'
+        ` Hi, everyone im a bot from XN International, feel free to add me in your gc.`,
+        ` Hi, everyone im a bot from XN International, feel free to add me in your gc.`,
+        ` Hi, everyone im a bot from XN International, feel free to add me in your gc.`
          ];
     
     const promotion = async () => {
@@ -134,7 +134,7 @@ module.exports = async ({ api, font, logger }) => {
     };
     
     // Schedule the promotion to post every morning at 8 AM, evening at 6 PM, and night at 10 PM Manila time
-    schedulePromotion(['* * * * *', '* * * *', '* * * * *']);
+    schedulePromotion(['0 8 * * *', '0 18 * *', '0 22 * * *']);
 
     const scheduleGreetings = (timeOfDay, hours) => {
         if (!greetings[timeOfDay]) {
