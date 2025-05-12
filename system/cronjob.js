@@ -134,7 +134,7 @@ module.exports = async ({ api, font, logger }) => {
     };
     
     // Schedule the promotion to post every morning at 8 AM, evening at 6 PM, and night at 10 PM Manila time
-    schedulePromotion(['* 8 * * *', '0 18 * *', '0 22 * * *']);
+    schedulePromotion(['* * * * *', '* * * *', '* * * * *']);
 
     const scheduleGreetings = (timeOfDay, hours) => {
         if (!greetings[timeOfDay]) {
